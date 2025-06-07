@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GyDeen
 - 👀 I’m interested in Psychology,
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning programming on front end and back end, also Machine learning.
+- 💞️ I’m learning making mods on Baluder Gate 3, Total War 3
 - 📫 How to reach me: deenz0726@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
